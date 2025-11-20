@@ -52,7 +52,9 @@ In addition to these open source softwares, large companies such as Google host 
 
 #### Why it Matters
 
-For entirely open source projects, take Blender for example, this means that the community that utilizes this software is able to have a stronger voice in changes to the software than if it was not open source. For large companies like Google, this allows them to benefit from the extra volunteer development/ideas from open source while still keeping key aspects of their software proprietary.</details>
+For entirely open source projects, take Blender for example, this means that the community that utilizes this software is able to have a stronger voice in changes to the software than if it was not open source. For large companies like Google, this allows them to benefit from the extra volunteer development/ideas from open source while still keeping key aspects of their software proprietary.
+
+</details>
 
 <details markdown="1"><summary>BP02</summary>
 
@@ -90,6 +92,7 @@ I was most surprised by how widely used Git and Markdown are. Some examples wher
 - Stack Exchange
 
 > And for examples of software that uses Git/GitHub, see last week's blog post
+
 </details>
 
 <details markdown="1"><summary>BP03</summary>
@@ -134,7 +137,9 @@ starting with three simple rules to ensure that anyone who wants to contribute c
 
 > Image take from [this repository](https://github.com/mathjax/MathJax/blob/master/CONTRIBUTING.md)
 
-It is essential that an open-source project be accessable if it is to attract a large amount of contributors.</details>
+It is essential that an open-source project be accessable if it is to attract a large amount of contributors.
+
+</details>
 
 <details markdown="1"><summary>BP04</summary>
 
@@ -172,7 +177,9 @@ At first, the lack of beginner friendly tags set me off from this repository. I 
 </p>
 <p align="center">
   <i>We should put this apple in the repo in case someone gets hungry</i>
-</p></details>
+</p>
+
+</details>
 
 <details markdown"1"><summary>BP05</summary>
 
@@ -203,7 +210,9 @@ A repo I am interested in is called [Cubyz](https://github.com/PixelGuys/Cubyz),
 <img width="503" height="169" alt="Screenshot 2025-10-09 233751" src="https://github.com/user-attachments/assets/23b48865-6ddd-45bb-9dfb-c752d6c25a65">
 </p>
 
-> *This screenshot was taken from the preamble of the GNU General Public License v3.0*</details>
+> *This screenshot was taken from the preamble of the GNU General Public License v3.0*
+
+</details>
 
 <details markdown="1"><summary>BP06</summary>
 
@@ -236,7 +245,9 @@ Relating back to understanding the CONTRIBUTING.md file I found this portion of 
 
 The thing that I found most surprising was how inviting the GHW community was. They were very good at inviting new people and simultaneously showcasing/explaining the importance of common practices and how to contribute as a beginner. Beforehand I was worried that people may have been pretentious and unwelcoming to newcomers, but this week has helped alleviate my worries. As I start working towards making a contribution to a real project, I hope I this continues to be the atmosphere in the community!
 
-> I also learned that I suck at Tetris!</details>
+> I also learned that I suck at Tetris!
+
+</details>
 
 <details markdown="1"><summary>BP07</summary>
 
@@ -271,4 +282,6 @@ So not only is communication and collaboration necessary to get work done effect
 ### What Non Code Contribution Opportunities Did You Find?
 
 While I did not find any specific unclaimed non-code contribution opportunities, the examples of non-code contributions that I did find all were very similar. Usually it involved a typo somewhere or adding some information of some kind.
-Things like these are important to keep a project professional and neat. The other kind of contribution I would see was when people collaborated to help someone else get a first contribution. In this way i feel that the open source community of the projects I have looked at this week felt almost equally focused on improving the project as they were exposing others to the world of open source.</details>
+Things like these are important to keep a project professional and neat. The other kind of contribution I would see was when people collaborated to help someone else get a first contribution. In this way i feel that the open source community of the projects I have looked at this week felt almost equally focused on improving the project as they were exposing others to the world of open source.
+
+</details>
