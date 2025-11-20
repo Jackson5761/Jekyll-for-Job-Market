@@ -1,11 +1,11 @@
 # Configs
 
-title: "Profile"
-name: "A Free Job Market Profile in Jekyll"
-email: 
-url: "https://econ-691.github.io"
-baseurl: "/Jekyll-for-Job-Market"
-repository: "ECON-691/Jekyll-for-Job-Market"
+title: "Jackson Adams"
+name: "Jekyll Website for Jackson Adams"
+email: "Z2033469@students.niu.edu"
+url: "https://Jackson5761.github.io"
+baseurl: "/Jackson-Adams-Profile"
+repository: "Jackson5761/Jackson-Adams-Profile"
 header:
   image: /assets/images/banner-husky.jpg
 
@@ -41,7 +41,7 @@ author:
   avatar : "/assets/images/head.jpeg"
   bio    : "My name is Jackson Adams."
   location: "Elgin, Illinois"
-  github : 
+  github : "Jackson5761"
   linkedin: "school/northern-illinois-university" #This is a fake site that won't work. To add your own, make sure to include just the profile, not the full url. Eg. anna-klis-1337a150
   email  : 
 
