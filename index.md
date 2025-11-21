@@ -9,3 +9,4 @@ layout: home
 
 # Biography
 
+My name is Jackson Adams. I am a math major at Northern Illinois University who is planning on pursuing a PhD in pure mathematics. I am also currently an instructor at Mathnasium, where I have worked since the beginning of 2024.
